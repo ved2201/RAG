@@ -223,6 +223,4 @@ Each request generates a machine-readable audit record:
 - Fail closed: abstain or route to review when evidence is weak.
 - Require clinical review before any patient-facing deployment.
 
-## License
 
-Add a license appropriate for your repository, such as MIT or Apache-2.0.
